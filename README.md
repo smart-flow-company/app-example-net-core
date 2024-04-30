@@ -2,7 +2,8 @@
 
 # .NET
 
-Пример приложения [.NET](https://dotnet.microsoft.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
+Пример приложения [.NET](https://dotnet.microsoft.com/), которое можно развернуть в **Timeweb Cloud Apps** без
+настройки.
 
 :tada: [Демо](https://timeweb-cloud-app-example-net-core-122d.twc1.net)
 

@@ -6,9 +6,6 @@ var app = builder.Build();
 
 app.UseHttpsRedirection();
 
-app.MapGet("/", () =>
-{
-    return "Timeweb Cloud + .NET Core = ❤️";
-});
+app.MapGet("/", () => { return "Timeweb Cloud + .NET Core = ❤️"; });
 
 app.Run();
